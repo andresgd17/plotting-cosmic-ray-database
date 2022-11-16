@@ -1,0 +1,16 @@
+# Data from SSDC cosmic rays database www.ssdc.asi.it 
+# File generated today 20221116 
+# Errors may contain statistic and systematic depending on the options set when drawing the graph 
+# Fluxes are multiplied by a power of Energy (or Rigidity) if the option is set when drawing the graph 
+# Horizontal errors usually are not uncertanties of the measurement but correspond to binning. See publication. 
+#
+# GraphTitle: Fe H.E.S.S. PhysRevD (2007); 2004-09-30 00:00:00.0,2005-11-30 00:00:00.0; 
+# XLabel: kinetic energy (GeV) 
+# YLabel: flux ((m^{2} s sr GeV)^{-1}) 
+#
+# Columns: X, XErrorLow, XErrorHigh, Y, YErrorLow, YErrorHigh 
+1.584000e+04  0.000000e+00 0.000000e+00  1.544496e-08  3.577651e-09 3.586826e-09 
+2.511000e+04  0.000000e+00 0.000000e+00  4.736561e-09  1.123752e-09 1.109251e-09 
+3.981000e+04  0.000000e+00 0.000000e+00  1.813671e-09  4.161067e-10 4.167013e-10 
+6.309500e+04  0.000000e+00 0.000000e+00  3.158338e-10  1.042290e-10 1.062623e-10 
+1.259000e+05  0.000000e+00 0.000000e+00  7.107481e-11  2.399510e-11 2.434729e-11 
