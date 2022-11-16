@@ -1,0 +1,2 @@
+# ASDC Cosmic rays database, created 2022-11-16 23:30:19
+#Filename ; Particle ; Mission ; Reference ; Start Date ; Stop Date ; Notes
