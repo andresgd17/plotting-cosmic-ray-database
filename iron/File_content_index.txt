@@ -1,5 +1,0 @@
-# ASDC Cosmic rays database, created 2022-11-16 23:30:19
-#Filename ; Particle ; Mission ; Reference ; Start Date ; Stop Date ; Notes
-Fe_CREAMII_ApJ2009_000.xml ; Fe ; CREAM ; ApJ 707 (2009) 593 ; 2005-12-16T00:00:00 ; 2006-01-13T00:00:00 ;  ; time_min=2005-12-16 00:00:00.0 ; time_max=2006-01-13 00:00:00.0
-Fe_HESS_PRD2007_000.xml ; Fe ; H.E.S.S. ; PhysRevD 75 (2007) 042004 ; 2004-09-30T00:00:00 ; 2005-11-30T00:00:00 ;  ; time_min=2004-09-30 00:00:00.0 ; time_max=2005-11-30 00:00:00.0
-iron_CALET2021_000.xml ; Fe ; CALET ; Phys. Rev. Lett. 126 (2021) 241101 ; 2016-01-01T00:00:00 ; 2020-05-31T00:00:00 ;  ; time_min=2016-01-01 00:00:00.0 ; time_max=2020-05-31 00:00:00.0
